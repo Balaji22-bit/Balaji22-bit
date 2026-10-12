@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Balaji22-bit
+- 👋 Hi, I’m @Balaji
 - 👀 I’m interested in Creating new things and develop new
-- 🌱 I’m currently learning Data science and additionally looking forward to do masters
-- 💞️ I’m looking to collaborate on Data science projects
-- 📫 How to reach me reddybalaji156@gmail.com
+- 🌱 I’m currently learning Ai ,Data Engineering, Data Bases and additionally looking forward to do masters
+- 💞️ I’m looking to collaborate on a Cool projects which i can show case my skills 
+- 📫 How to reach me balajigodha24@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: everyone wants sucess without hard work
 
